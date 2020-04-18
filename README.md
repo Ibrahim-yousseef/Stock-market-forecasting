@@ -1,4 +1,4 @@
-# Arima-stock-market-forecasting-
+# Stock-market-forecasting-
 Time Series Forecasting for stock market companies amazon and apple using arima model
 
 ## Project Motivation
