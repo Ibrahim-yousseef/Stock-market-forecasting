@@ -11,4 +11,4 @@ Investment firms, hedge funds and even individuals have been using financial mod
 
 ## Result
 
-I post a blog about the detail, you can find it [here]().
+I post a blog about the detail, you can find it [here](https://medium.com/@himamohamed9688/stock-market-forecasting-ca11884ceb8c).
